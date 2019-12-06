@@ -1,0 +1,4 @@
+{
+    "mongoURI": "Press your mongoURI",
+    "Token_SECRET": "Press you Secret Tokens"
+}
