@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "config": "^3.2.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "nodemon": "^2.0.1"
   }
 }
