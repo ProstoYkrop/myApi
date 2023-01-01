@@ -20,7 +20,7 @@
     "path": "^0.12.7"
   },
   "devDependencies": {
-    "config": "^3.2.4",
+    "config": "^3.3.8",
     "jsonwebtoken": "^8.5.1",
     "nodemon": "^2.0.1"
   }
